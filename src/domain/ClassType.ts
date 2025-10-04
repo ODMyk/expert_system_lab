@@ -3,10 +3,8 @@ export enum ClassType {
   Animal = "Animal",
   Mammal = "Mammal",
   Dog = "Dog",
-
   Plant = "Plant",
   FloweringPlant = "Flowering Plant",
-  Rose = "Rose",
 
   Cat = "Cat",
   Tiger = "Tiger",
@@ -17,6 +15,7 @@ export enum ClassType {
   Poodle = "Poodle",
 
   SphynxCat = "Sphynx Cat",
+  MaineCoon = "Maine Coon",
 
   Bird = "Bird",
   Fish = "Fish",
@@ -28,6 +27,13 @@ export enum ClassType {
 
   Tree = "Tree",
   Bush = "Bush",
+  Rose = "Rose",
+  Orchid = "Orchid",
+
+  OakTree = "Oak Tree",
+  PineTree = "Pine Tree",
+  RoseBush = "Rose Bush",
+  LilacBush = "Lilac Bush",
 
   Head = "Head",
   Paw = "Paw",
@@ -41,4 +47,7 @@ export enum ClassType {
   Thorn = "Thorn",
   Leaf = "Leaf",
   Root = "Root",
+  Fin = "Fin",
+  Scale = "Scale",
+  Exoskeleton = "Exoskeleton",
 }
